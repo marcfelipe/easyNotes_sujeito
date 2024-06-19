@@ -1,0 +1,14 @@
+https://youtu.be/yLvKuljeP_Y?t=346
+
+https://docs.expo.dev/get-started/create-a-project/
+https://docs.expo.dev/more/create-expo/#--template
+https://github.com/prisma/react-native-prisma
+
+
+
+npx create-expo-app@latest --template
+
+npm i --save --save-exact @prisma/client@latest @prisma/react-native@latest react-native-quick-base64
+
+npx expo prebuild --clean
+
